@@ -2,9 +2,22 @@
 
 I'm excited to share my first frontend project built with **Bootstrap** — created to strengthen my understanding of responsive web design, CSS animations, interactive UI elements, and modern frontend development. 💻
 
+
+## 📸 Project Preview
+
+### 📄 HTML Structure
+- <a href="https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-/blob/main/index.html">HTML View</a>
+
+### 🎨 Styling
+- <a href="https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-/blob/main/style/style.css">Stylesheet View</a>
+
+### 🖼️ Assets
+- <a href="https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-/tree/main/images">Images & Assets View</a>
+
+
 ## 🌐 Project Overview
 
-Strict is a responsive frontend website designed with a focus on clean layouts, visual interactions, and responsive user experience.
+It's a responsive frontend website designed with a focus on clean layouts, visual interactions, and responsive user experience.
 
 This project allowed me to move beyond basic HTML & CSS and explore how **Bootstrap and CSS animations** can be combined to create a more engaging interface.
 
@@ -65,29 +78,6 @@ Added a newsletter subscription section at the end of the website with a dedicat
 - **Bootstrap** — Responsive layout and navigation
 - **JavaScript** — Interactive functionality
 
-## 📸 Project Preview
-
-### 📄 HTML Structure
-- <a href="https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-/blob/main/index.html">HTML View</a>
-
-### 🎨 Styling
-- <a href="https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-/blob/main/style/style.css">Stylesheet View</a>
-
-### 🖼️ Assets
-- <a href="https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-/tree/main/images">Images & Assets View</a>
-
-### 🏠 Hero & Navigation
-
-![Strict Hero](images/hero-preview.png)
-
-### 🖼️ Photo Gallery
-
-![Strict Gallery](images/gallery-preview.png)
-
-### 📩 Newsletter Section
-
-![Strict Newsletter](images/newsletter-preview.png)
-
 ## 🎯 What I Practiced
 
 Through this project, I practiced:
@@ -105,10 +95,11 @@ Through this project, I practiced:
 
 ## 🔗 Project Links
 
-🌐 **Live Demo:** <img width="1913" height="1147" alt="image" src="https://github.com/user-attachments/assets/8d4f71b1-2cfc-4a45-a3a8-85fb60ba2a32" />
-
-
 💻 **GitHub Repository:** [My First Responsive Frontend with Bootstrap](https://github.com/SayedIkhtiazAhmed/My_First_Responsive_Frontend_with_Bootstrap-))
+
+
+🌐 **Live Demo:** <img width="1897" height="1092" alt="image" src="https://github.com/user-attachments/assets/50dae1db-ffdb-4319-abc0-e7429f4e6667" />
+
 
 ## 🚀 My Frontend Journey
 
